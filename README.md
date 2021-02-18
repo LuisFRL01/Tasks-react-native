@@ -1,3 +1,3 @@
 # Tasks-react-native
 
-App TODO feito com React Native e Expo.
+App TODO offline feito com React Native e Expo.
